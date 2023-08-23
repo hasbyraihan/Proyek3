@@ -1,0 +1,39 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta http-equiv=X-UA-Compatible content=IE=edge
+    meta name=viewport content=widht=device-width, initial-scale=1.0
+    titleHasby Raihantitle
+    link rel=stylesheet href=style.css
+head
+body
+    div class=container
+        div class=row
+            div class=Birudiv
+            
+        div
+        div class=row
+            div class=navigationdiv
+            h1Pinkh1
+        div
+        div class=row
+            div class=sidebar
+                h1Kuningh1
+            div
+            div class=content
+                h1Hijauh1
+            div
+            div class=apaza
+                h1Merah
+                h1
+            div
+        div
+        div class=row
+            div class=footer
+                h1Biru Tuah1
+            div
+        div
+    div
+body
+html
