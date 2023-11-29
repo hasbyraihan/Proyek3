@@ -1,0 +1,15 @@
+No 1 - Form Input Data Barang - Hasby - Sudah Selesai
+
+No 2 - Form Update Data Barang - Hasby - Sudah Selesai
+
+No 3 - View Data Barang - Hasby - Sudah Selesai
+
+No 4 - Delete Data Barang - Hasby - Sudah Selesai
+
+No 5 - View Data Kasir - Hasby - Belum tampil tetapi sudah bisa di masukan oleh seeder
+
+No 6 - View Data Tenan - Hasby - Belum tampil tetapi sudah bisa di masukan oleh seeder
+
+No 7 - Form Input Transaksi Penjualan - Hasby - Belum selesai
+
+No 8 - View Struk Belanja - Hasby - Belum tampil tetapi sudah bisa di masukan oleh seeder
